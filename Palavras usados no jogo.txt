@@ -1,0 +1,46 @@
+﻿Palavras usados no jogo
+
+
+
+
+PALAVRAS
+	SÍMBOLOS FONÉTICOS
+	LIVE
+	lɪv
+	LEAVE
+	liv
+	LIFE
+	laɪf
+	THOUGTH
+	θɑt
+	THAT
+	ðæt
+	THERE
+	ðɛɹ
+	FLOUR
+	flaʊ - əɹ
+	FLEW
+	ˈflu
+	FLOOR
+	flɔɹ
+	KITCHEN
+	kɪ - tʃɪn
+	CHICKEN
+	tʃɪ - kɪn
+	CHILDREN
+	ˈtʃɪɫdɹən
+	HUNGRY
+	həŋ - gɹi
+	ANGRY
+	æŋ - gɹi
+	HUNDRED
+	hən - dɹɪd
+	TREE
+	tɹi
+	THREE
+	θɹi
+	FREE
+	fɹi
+	
+
+Observação: As palavras pintadas são as que terão áudio.

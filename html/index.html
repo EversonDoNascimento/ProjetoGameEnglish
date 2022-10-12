@@ -12,7 +12,6 @@
       <div class="left">
         <div class="info">
           <div id="score">Score:</div>
-          <div id="time">Time:</div>
         </div>
         <div id="text-left">
           try to get as many questions right as you can!!
@@ -20,7 +19,53 @@
         <div id="good-luck">GOOD LUCK!!</div>
       </div>
       <div class="right">
-        <div class="container">sfsjj</div>
+        <div class="container">
+          <main class="tela-principal">
+            <section class="conteudos">
+              <h1>Simple Past Quiz</h1>
+
+              <article class="centro" id="instrucoes">
+                Read the word and click on its correct pronunciation
+              </article>
+
+              <article class="questoes">
+                <header class="questao">
+                  <span id="numQuestao"></span>
+                  <h2 id="pergunta"></h2>
+                </header>
+
+                <div class="corpo">
+                  <ol type="A" id="alternativas">
+                    <li
+                      id="a"
+                      value="1A"
+                      class="respostas"
+                      onClick="verificarSeAcertou(this, this)"
+                    ></li>
+                    <li
+                      id="b"
+                      value="1B"
+                      class="respostas"
+                      onClick="verificarSeAcertou(this, this)"
+                    ></li>
+                    <li
+                      id="c"
+                      value="1C"
+                      class="respostas"
+                      onClick="verificarSeAcertou(this, this)"
+                    ></li>
+                  </ol>
+                </div>
+              </article>
+
+              <article id="aviso">
+                Questions <span id="numero"></span> of <span id="total"></span>
+              </article>
+            </section>
+
+            <footer class="centro"></footer>
+          </main>
+        </div>
       </div>
     </section>
     <script src="../js/myScript.js"></script>
